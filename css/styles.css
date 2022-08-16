@@ -62,7 +62,7 @@ body, p {
 
 h1 {
 	color: #333;
-	font: 700 2.5rem/3.125rem "Open Sans", sans-serif;
+	font: 700 2rem/3rem "Open Sans", sans-serif;
 	letter-spacing: -0.2px;
 }
 
@@ -793,7 +793,7 @@ input[type='checkbox'] {
 .header h1 {
 	margin-bottom: 1rem;
 	color: #333;
-	font-size: 2.5rem;
+	font-size: 2rem;
 	line-height: 3rem;
 }
 
@@ -1670,8 +1670,8 @@ a:hover.back-to-top {
 	}
 
 	.header h1 {
-		font-size: 3.5rem;
-		line-height: 4.125rem;
+		font-size: 3rem;
+		line-height: 4rem;
 	}
 
 	.header .btn-solid-lg {
